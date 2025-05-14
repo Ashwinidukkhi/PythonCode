@@ -2,9 +2,12 @@
 # note : $ no base condition
 # $ infinite recursion
 # $ no return value
-def factorial(a,b):
-    if  a==0 or b==1:
-        return  1
-    else:
-        return (2*factorial())
-    
+# advatage:-clean code,complex problem easily solve
+# dis advatage:-hard to debug ,no memory efficiant
+# def great():
+#     print(hello)
+#     great()
+#     |
+#     |
+#     |   
+# great()#call funct outside

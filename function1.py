@@ -1,5 +1,5 @@
 # import math as  m
-# print("number",m.ceil(23.0))
+# print("number",m.ceil(23.05))
  
 
 
@@ -39,5 +39,6 @@
 # op...= PEMDAS
 # datatype =bool>int>float>complex(3+4j)
 
-a,b=map(int,input("enter:").split())
+# a,b=map(int,input("enter:").split())
 
+print(type(input()))

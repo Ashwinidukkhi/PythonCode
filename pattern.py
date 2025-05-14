@@ -77,6 +77,7 @@
 #             is_prime=False#if it is divisible its not prime ,so set is_prime=false
 #             break
 #     if is_prime:  #if no divisor found  (is _prime is still true ) ,print number    
-#       print(num)
-       
- 
+#       print(num)  
+
+
+
